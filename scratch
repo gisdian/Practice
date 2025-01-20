@@ -2,3 +2,6 @@ import java.util.scanner;
 
 public static void main(Strting[] args);
 Scanner scanner = new Scanner(System.in);
+
+System.out.print("Enter value: ");
+
